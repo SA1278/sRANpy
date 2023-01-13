@@ -5,7 +5,8 @@ Place the configure_enb.py file in the same folder with your enb.conf file, rest
 
 
 requirements (install using pip if needed):
+```
+pip install tkinter
 
-tkinter
-
-configparser
+pip install configparser
+```
