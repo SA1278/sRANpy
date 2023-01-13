@@ -1,2 +1,4 @@
 # sRANpy
-GUI application for editing srsRAN enb.conf files, very unfinished stuff, backup your configs
+GUI application for editing srsRAN enb.conf files, very unfinished stuff, backup your configs!
+
+Place the file in the same folder with your enb.conf file, rest should be self-explanatory.
